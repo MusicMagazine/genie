@@ -4,9 +4,33 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 01:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 03:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알앤비 레전드 ＃16 - 디스코의 영원한 여왕, 도나 섬머]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12016&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12016&amp;pg=1</guid>
+            <pubDate>Fri, 27 May 2022 03:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12016/Mgz_Main_List_20220527110242.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[가요 탐구생활 ＃42 - 돌아오는 록 페스티벌 속 보고 싶은 무대들은?]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=12011&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=12011&amp;pg=1</guid>
+            <pubDate>Fri, 27 May 2022 03:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12011/Mgz_Main_List_20220527103012.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[헤이즈 문의 새 싱글, 꿈과 이상에서 멀어진 현실. 하지만 [이대로 괜찮아요]]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12007&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12007&amp;pg=1</guid>
+            <pubDate>Fri, 27 May 2022 03:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12007/Mgz_Main_List_20220527092423.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[임다이의 농도짙은 EP [소란한 밤] 앨범 작업 비하인드]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12003&amp;pg=1</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 26 May 2022 03:24:06 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12000/Mgz_Main_List_20220526103322.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[스스로를 사랑하게 하는 주문, 문샤크의 [Love Yourself]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11995&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11995&amp;pg=1</guid>
-            <pubDate>Thu, 26 May 2022 03:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11995/Mgz_Main_List_20220523182525.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 모든 감각을 깨우는 짜릿한 초감각 로맨틱 코미디 ‘키스 식스 센스’의 ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11999&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11999&amp;pg=1</guid>
-            <pubDate>Wed, 25 May 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11999/Mgz_Main_List_20220525140634.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[BVNDIT(밴디트) 3rd MINI ALBUM 타이틀곡 ‘VENOM’ MV ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11994&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11994&amp;pg=1</guid>
-            <pubDate>Wed, 25 May 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11994/Mgz_Main_List_20220525152115.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
