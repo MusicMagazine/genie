@@ -4,9 +4,41 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 01:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피아니스트는 밤의 시인 – 얀 리시에츠키가 연주하는 밤의 음악]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12024&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12024&amp;pg=1</guid>
+            <pubDate>Tue, 31 May 2022 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12023/Mgz_Main_List_20220531103225.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마들이 만든 [똘똘이 그림일기 동요] 시즌 6]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12022&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12022&amp;pg=1</guid>
+            <pubDate>Tue, 31 May 2022 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12021/Mgz_Main_List_20220531090459.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[김제형 격월 발매 프로젝트 세번째 앨범, 띄움 3칸 [후라보노]]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12012&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12012&amp;pg=1</guid>
+            <pubDate>Tue, 31 May 2022 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12012/Mgz_Main_List_20220527112818.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[봄날, 마주하는 오드트리의 여덟 번째 나무소리 [첫 눈] 발매 인터뷰]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12005&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12005&amp;pg=1</guid>
+            <pubDate>Tue, 31 May 2022 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12005/Mgz_Main_List_20220527112848.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[또 한 번 세상을 흔들 NCT DREAM의 〈Beatbox〉]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12018&amp;pg=1</link>
@@ -38,38 +70,6 @@
             <pubDate>Mon, 30 May 2022 03:35:48 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12014/Mgz_Main_List_20220530105112.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 서사의 시작을 알리는 포레스텔라의 [The Beginning : Wor...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12013&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12013&amp;pg=1</guid>
-            <pubDate>Mon, 30 May 2022 03:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12013/Mgz_Main_List_20220530111706.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[태양에 맞서 거침없이 나아가는 세븐틴의 정규 4집 [Face the Sun]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12010&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12010&amp;pg=1</guid>
-            <pubDate>Mon, 30 May 2022 03:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12010/Mgz_Main_List_20220530111616.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈과 현실을 구분하지 못하는 사랑이야기, 널디나 [Delicate Daydre...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12008&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12008&amp;pg=1</guid>
-            <pubDate>Fri, 27 May 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12008/Mgz_Main_List_20220527092632.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“The Seed”프로젝트, Padi [HANDSOME]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12001&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12001&amp;pg=1</guid>
-            <pubDate>Fri, 27 May 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12001/Mgz_Main_List_20220527103254.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
