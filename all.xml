@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 01:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지니 컬러 동향 ＃42 – 2022.05.14 ~ 05.27 발매작 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12033&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12033&amp;pg=1</guid>
+            <pubDate>Fri, 03 Jun 2022 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12032/Mgz_Main_List_20220603101443.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[여름같이 뜨거웠던 우리의 청춘 이야기, 백두산 [내 사랑은 그래] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12021&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12021&amp;pg=1</guid>
+            <pubDate>Fri, 03 Jun 2022 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12021/Mgz_Main_List_20220603113510.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[힙합 프로듀서 Panda Gomm ‘Black Swan’ MV 제작기 공개 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12029&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 02 Jun 2022 03:46:57 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12019/Mgz_Main_List_20220602101853.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 기탁(KiTak) 싱글 [시소] 재킷촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12023&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12023&amp;pg=1</guid>
-            <pubDate>Tue, 31 May 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12022/Mgz_Main_List_20220531101014.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[빅톤(VICTON) 7th Mini Album 타이틀곡 ‘Stupid O'cl... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12017&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12017&amp;pg=1</guid>
-            <pubDate>Tue, 31 May 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12017/Mgz_Main_List_20220531102558.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
