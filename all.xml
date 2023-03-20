@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 03:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 04:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12991&amp;pg=1</guid>
             <pubDate>Mon, 20 Mar 2023 03:15:22 GMT</pubDate>
             <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12991/Mgz_Main_List_20230320113605.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[너는 늘 예고 없는 소나기처럼, 신직선 [소나기] 작업기 (지니 ─ 매거진)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12986&amp;pg=1</guid>
             <pubDate>Mon, 20 Mar 2023 03:15:22 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12986/Mgz_Main_List_20230317170437.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[TRADE L - EP [UNSTEADY] 오피셜 라이브 클립 촬영 현장 비하... (지니 ─ 매거진)]]></title>
