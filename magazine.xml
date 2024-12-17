@@ -4,7 +4,7 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 03:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 03:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14916&amp;pg=1</guid>
             <pubDate>Tue, 17 Dec 2024 03:01:28 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14916/Mgz_Main_List_20241217112145.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[한국 클래식의 역사, 코리안챔버오케스트라 창단 60주년 기념 음반 발매]]></title>
@@ -21,7 +21,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14915&amp;pg=1</guid>
             <pubDate>Tue, 17 Dec 2024 03:01:28 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14915/Mgz_Main_List_20241217113258.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[무한(無限)의 빛과 가능성을 향해, NouerA (누에라) Digital Si...]]></title>
