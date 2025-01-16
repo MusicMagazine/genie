@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 04:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 05:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14965&amp;pg=1</guid>
             <pubDate>Thu, 16 Jan 2025 03:18:08 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14965/Mgz_Main_List_20250116110504.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA['브브걸(BBGIRLS)', [LOVE 2] MV 촬영 비하인드 공개 (지니 ─ 매거진)]]></title>
@@ -37,7 +37,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14956&amp;pg=1</guid>
             <pubDate>Thu, 16 Jan 2025 03:18:08 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14956/Mgz_Main_List_20250116102852.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[새해부터 ‘Lucky’한 그녀들, 김완선과 슬기의 특별한 듀엣! (지니 ─ 매거진)]]></title>
