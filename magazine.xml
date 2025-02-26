@@ -4,7 +4,7 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 23:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 01:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=15040&amp;pg=1</guid>
             <pubDate>Tue, 25 Feb 2025 03:24:34 GMT</pubDate>
             <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15040/Mgz_Main_List_20250225110208.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이렇게 완성된 라벨의 세계 - 조성진이 연주하는 라벨 피아노 협주곡집]]></title>
