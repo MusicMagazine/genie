@@ -4,7 +4,7 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 04:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 05:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=15075&amp;pg=1</guid>
             <pubDate>Tue, 11 Mar 2025 03:27:45 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15075/Mgz_Main_List_20250311120126.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[그의 마지막 모차르트 이야기 - 백건우의 <모차르트: 피아노 작품 3>]]></title>
@@ -29,7 +29,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15066&amp;pg=1</guid>
             <pubDate>Tue, 11 Mar 2025 03:27:45 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15066/Mgz_Main_List_20250311103800.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[네오 클래식 아티스트 '루도비코 에이나우디' 내한!]]></title>
